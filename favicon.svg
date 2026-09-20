@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NZ monogram">
+  <rect width="64" height="64" rx="12" fill="#2c201c"/>
+  <text
+    x="5"
+    y="44"
+    fill="#f2eadf"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="36"
+    font-style="italic"
+    font-weight="700"
+    letter-spacing="-5"
+  >NZ</text>
+  <path d="M35 50.5C43 48 50 48.5 58 51" fill="none" stroke="#9b443b" stroke-width="3" stroke-linecap="round"/>
+</svg>
+
