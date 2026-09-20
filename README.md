@@ -1,4 +1,4 @@
-# Niccolò Zampini — Portfolio
+# Niccolò Zampini - Portfolio
 
 A minimal, editorial personal portfolio for Niccolò Zampini. It presents selected projects, current interests and contact details in a responsive single-page experience.
 
@@ -8,9 +8,9 @@ A minimal, editorial personal portfolio for Niccolò Zampini. It presents select
 
 ## Featured projects
 
-- **RUNE** — a lightweight Python AI agent that can decide when to call external tools.
-- **Study Prevision** — a machine-learning study comparing two models for exam-grade prediction.
-- **This portfolio** — the open-source website contained in this repository.
+- **RUNE** - a lightweight Python AI agent that can decide when to call external tools.
+- **Study Prevision** - a machine-learning study comparing two models for exam-grade prediction.
+- **This portfolio** - the open-source website contained in this repository.
 
 ## Built with
 
