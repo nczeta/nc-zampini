@@ -11,6 +11,7 @@ A minimal, editorial personal portfolio for Niccolò Zampini. It presents select
 - **RUNE** - a lightweight Python AI agent that can decide when to call external tools.
 - **Study Prevision** - a machine-learning study comparing two models for exam-grade prediction.
 - **This portfolio** - the open-source website contained in this repository.
+- **OpenDay Messedaglia** - a school event staff PWA, originally created by [ie74](https://github.com/ie74/messe-openday). Collaborator contributions cover mobile UI, bug identification and verification of AI-implemented fixes, role management and phase instructions; built in collaboration with AI throughout. [Visit app](https://messe-openday.vercel.app/).
 
 ## Built with
 
